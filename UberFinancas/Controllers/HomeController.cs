@@ -4,7 +4,8 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using UberFinancas.Models;
+using UberFinancas.Models.ViewModels;
+
 
 namespace UberFinancas.Controllers
 {

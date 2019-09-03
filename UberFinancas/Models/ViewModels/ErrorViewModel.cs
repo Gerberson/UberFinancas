@@ -1,6 +1,6 @@
 using System;
 
-namespace UberFinancas.Models
+namespace UberFinancas.Models.ViewModels
 {
     public class ErrorViewModel
     {
